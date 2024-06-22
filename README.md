@@ -1,11 +1,11 @@
 # SQL-Database-Query-Assistant
 Simplify your SQL database queries with our interactive assistant. Using natural language processing (NLP) and machine learning (ML), the assistant interprets your questions, generates SQL queries, and retrieves results from your MySQL database. The interface is user-friendly, and custom prompt templates ensure a seamless experience.
 # Key Features
--**Natural Language Processing**: Ask questions in plain English and receive SQL queries tailored to your needs.
--**Syntactically Correct Queries**: Get accurate SQL queries generated based on your questions.
--**Interactive Interface**: Use a web-based interface powered by Streamlit for easy accessibility.
--**Structured Results**: Receive results from your database in a structured format for easy analysis.
--**Custom Prompt Templates**: Format your input and output according to your preferences.
+- **Natural Language Processing**: Ask questions in plain English and receive SQL queries tailored to your needs.
+- **Syntactically Correct Queries**: Get accurate SQL queries generated based on your questions.
+- **Interactive Interface**: Use a web-based interface powered by Streamlit for easy accessibility.
+- **Structured Results**: Receive results from your database in a structured format for easy analysis.
+- **Custom Prompt Templates**: Format your input and output according to your preferences.
 
 # Technologies Used
 -**Python**: Programming language used for development.
