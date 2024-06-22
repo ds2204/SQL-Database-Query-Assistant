@@ -8,14 +8,14 @@ Simplify your SQL database queries with our interactive assistant. Using natural
 - **Custom Prompt Templates**: Format your input and output according to your preferences.
 
 # Technologies Used
--**Python**: Programming language used for development.
--**Langchain**: NLP and ML framework for language processing.
--**MySQL**: Database management system for storing and retrieving data.
--**Hugging Face Transformers**: Used for generating embeddings.
--**FAISS**: Vector store for efficient storage and retrieval of embeddings.
--**Streamlit**: Web application framework for building interactive interfaces.
+- **Python**: Programming language used for development.
+- **Langchain**: NLP and ML framework for language processing.
+- **MySQL**: Database management system for storing and retrieving data.
+- **Hugging Face Transformers**: Used for generating embeddings.
+- **FAISS**: Vector store for efficient storage and retrieval of embeddings.
+- **Streamlit**: Web application framework for building interactive interfaces.
 
 # Installation and Usage
--**Clone the Repository**: git clone https://github.com/your-username/sql-database-query-assistant.git
--**Install Dependencies**: pip install -r requirements.txt
--**Run the Application**: streamlit run app.py
+- **Clone the Repository**: git clone https://github.com/your-username/sql-database-query-assistant.git
+- **Install Dependencies**: pip install -r requirements.txt
+- **Run the Application**: streamlit run app.py
