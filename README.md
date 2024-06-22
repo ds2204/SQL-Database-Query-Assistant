@@ -19,3 +19,5 @@ Simplify your SQL database queries with our interactive assistant. Using natural
 - **Clone the Repository**: git clone https://github.com/your-username/sql-database-query-assistant.git
 - **Install Dependencies**: pip install -r requirements.txt
 - **Run the Application**: streamlit run app.py
+
+![Uploading Screenshot 2024-06-21 232649.png…]()
